@@ -1,0 +1,4 @@
+socials = [
+  { href = "https://github.com/OpenTritium", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://space.bilibili.com/43827092", target="_blank", icon = "logo-youtube", title = "哔哩哔哩" }
+]
