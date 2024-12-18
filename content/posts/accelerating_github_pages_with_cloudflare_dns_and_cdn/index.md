@@ -1,7 +1,7 @@
 ---
 title: 使用 Cloudflare 加速 Github Pages
 date: 2024-12-18T03:02:53+08:00
-lastmod: 2024-12-18T18:26:53+08:00
+lastmod: 2024-12-18T22:11:53+08:00
 cover: cloudflare_over_github.webp
 images:
   - browser_https_encrypt_indicator.png
@@ -22,7 +22,7 @@ draft: false
 
 <!--more-->
 
-在一切开始之前，你需要在 Cloudflare 域名解析控制台填写 github 的 CNAME 记录：
+在一切开始之前，你需要在 Cloudflare 域名解析控制台填写 github 的 CNAME 记录。记得将代理（将小黄云变灰）关掉，我们需要让 Github 访问该域名的记录以配置证书：
 
 ![Cloudfalre DNS 记录管理](./cloudflare_ns_console.png)
 
