@@ -1,6 +1,6 @@
 ---
 title: 更新移远 RG200U 5G 模块固件
-date: 2024-12-19T21:49:09+08:00
+date: 2024-12-18T21:49:09+08:00
 lastmod: 2024-12-19T00:17:09+08:00
 cover: quectel_rg200u.png
 images:
