@@ -1,7 +1,7 @@
 ---
 title: 在局域网内使用自建 DNS 分流并代理
 date: 2024-12-16T21:49:09+08:00
-lastmod: 2024-12-16T21:49:09+08:00
+lastmod: 2024-12-18T03:03:09+08:00
 cover: topo.png
 images:
   - br0.png
